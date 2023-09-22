@@ -6,19 +6,19 @@ Since Furnished Finder doesn't provide a good and free API, this actor should he
 
 The Furnished Finder data scraper supports the following features:
 
-- Get Property Information - Retrieve comprehensive details about any property listed on Furnished Finder, including its location, size, amenities, and more.
+-   Get Property Information - Retrieve comprehensive details about any property listed on Furnished Finder, including its location, size, amenities, and more.
 
-- Search with Custom Filters - Easily find properties by applying specific filters such as location, price range, accommodation type, and more, ensuring precise search results.
+-   Search with Custom Filters - Easily find properties by applying specific filters such as location, price range, accommodation type, and more, ensuring precise search results.
 
-- Property Images and Details - Access a gallery of high-quality images for each property, along with detailed descriptions, helping users visualize their potential accommodations.
+-   Property Images and Details - Access a gallery of high-quality images for each property, along with detailed descriptions, helping users visualize their potential accommodations.
 
-- Accommodation Details - Obtain in-depth information about each property's accommodations, such as the number of bedrooms, bathrooms, and any special features like a pool or gym.
+-   Accommodation Details - Obtain in-depth information about each property's accommodations, such as the number of bedrooms, bathrooms, and any special features like a pool or gym.
 
-- Fee Information - Retrieve data on all associated fees related to a property, including rent, utilities, security deposits, and any additional charges.
+-   Fee Information - Retrieve data on all associated fees related to a property, including rent, utilities, security deposits, and any additional charges.
 
-- Property Features - View a comprehensive list of property features, from basic amenities like Wi-Fi and parking to more specific offerings like pet-friendly environments or furnished options.
+-   Property Features - View a comprehensive list of property features, from basic amenities like Wi-Fi and parking to more specific offerings like pet-friendly environments or furnished options.
 
-- Reviews and Ratings - Access all available reviews and ratings for any property, helping users make informed decisions based on the experiences of previous tenants.
+-   Reviews and Ratings - Access all available reviews and ratings for any property, helping users make informed decisions based on the experiences of previous tenants.
 
 ## Bugs, fixes, updates and changelog
 
